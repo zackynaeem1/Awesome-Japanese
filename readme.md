@@ -112,6 +112,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 * [Kanji Damage](http://www.kanjidamage.com/introduction) - A Kanji learning method.
 * [Wanikani](https://www.wanikani.com/) - Kanji learning platform.:moneybag:
 * [KotobaWeb](http://kotobaweb.com/) - Practice kanji readings and play shiritori online.
+* [Japanese Kanji Study (Android)](https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy&hl=en_US) - An android app useful for studying kanji.:iphone:
 * Anki Deck
 	* [DJT Anki Guide](https://djtguide.neocities.org/anki.html) - A guide for downloading/customizing Anki with a link to the popular 6k/2k deck
 	* [Kodansha kanji learner's course with vocabulary](https://ankiweb.net/shared/info/779483253) - :card_index:This deck is meant to be used together with the Kodansha Kanji Learner's Course book (KLC).
