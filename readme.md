@@ -110,7 +110,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 * [Hacking Kanji](https://nihongoshark.com/learn-kanji/) - Guide: 2,200 Kanji in 97 Days.
 * [Kanji Koohii](https://kanji.koohii.com/) - Help you complete the kanji learning method called Remembering the Kanji.
 * [Kanji Damage](http://www.kanjidamage.com/introduction) - A Kanji learning method.
-* [Wakikani](https://www.wanikani.com/) - Kanji learning platform.:moneybag:
+* [Wanikani](https://www.wanikani.com/) - Kanji learning platform.:moneybag:
 * [KotobaWeb](http://kotobaweb.com/) - Practice kanji readings and play shiritori online.
 * Anki Deck
 	* [DJT Anki Guide](https://djtguide.neocities.org/anki.html) - A guide for downloading/customizing Anki with a link to the popular 6k/2k deck
