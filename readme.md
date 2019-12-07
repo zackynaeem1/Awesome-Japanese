@@ -169,7 +169,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 
 * [/r/learnjapanese](https://www.reddit.com/r/LearnJapanese/) - Learn Japanese subreddit.:iphone:
 * [Kanji Koohii Forum](https://forum.koohii.com/) - Forum which covers all aspects of Japanese learning.
-* [Lang-8](http://lang-8.com/) - A language learning platform where native speakers correct what you write.:iphone:
+* [LangCorrect](https://langcorrect.com) - A language learning platform where native speakers correct what you write. Responsive on all devices :iphone:
 * [Discord](https://discordapp.com/) - Popular chatroom platform.:iphone::computer:
 	* [English-Japanese Language Exchange](https://discord.gg/NJJCYVD) - Highly active English/Japanese discord chat server.
 	* [日本語と英語](https://discord.gg/0eIsYvFQul270V1L) - Another popular English/Japanese discord chat server.
