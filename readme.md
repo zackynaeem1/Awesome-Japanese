@@ -44,7 +44,7 @@
 
 3. Next is grammar/vocabulary.  You can either use a structured textbook or a more free-form online grammar guide like Tae-Kim.  Either one works, try one or both and stick with the one you like the best.  
 
-	For vocabulary, three nice options are [Wanikani](https://www.wanikani.com/), [Memrise](https://www.memrise.com/), or [Anki](https://djtguide.neocities.org/anki.html).  If you go with the Anki route, consider [using this deck](https://docs.google.com/document/d/1zyyuiWkiz2IF2CCROeJebl8mgRdHBqNfS5D7MFjDTzE/edit), which is the same as the deck in the above link, but with the front and back flipped around to display sentences on the front rather than single words, as this will force you to learn words in context.
+	For vocabulary, four nice options are [Mazii](https://play.google.com/store/apps/details?id=com.mazii.dictionary),[Wanikani](https://www.wanikani.com/), [Memrise](https://www.memrise.com/), or [Anki](https://djtguide.neocities.org/anki.html).  If you go with the Anki route, consider [using this deck](https://docs.google.com/document/d/1zyyuiWkiz2IF2CCROeJebl8mgRdHBqNfS5D7MFjDTzE/edit), which is the same as the deck in the above link, but with the front and back flipped around to display sentences on the front rather than single words, as this will force you to learn words in context.
 
 	For translating, avoid using Google Translate.  Instead, one of these websites: [Jisho.org: Japanese Dictionary](http://jisho.org/) or [Tangorin Japanese Dictionary](http://tangorin.com/)
 
